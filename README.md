@@ -1,2 +1,1 @@
-# Pizza-Project
-First practice project 
+# pizza
